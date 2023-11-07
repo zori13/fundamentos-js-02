@@ -15,5 +15,5 @@ function contadorClosures() {
 const incrementar = contadorClosures()
 
 console.log(incrementar()) // 1
-console.log(incrementar()) // 2
+console.log(ifunctionncrementar()) // 2
 ```
